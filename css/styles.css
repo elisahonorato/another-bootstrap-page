@@ -127,6 +127,7 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  line-height: 1.5;
 }
 
 abbr[title],
@@ -11027,6 +11028,8 @@ footer.footer .social-link:hover {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  line-height: 0px;
+
 }
 .masthead h1, .masthead .h1 {
   font-size: 4rem;
