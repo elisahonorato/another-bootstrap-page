@@ -1,2 +1,2 @@
-# clase_13
-https://elisahonorato.github.io/clase_13/
+# A very ugly project i made in college
+https://elisahonorato.github.io/another-bootstrap-page/
