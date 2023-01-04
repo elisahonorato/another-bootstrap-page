@@ -1,2 +1,2 @@
-# A very ugly project i made in college
+# Learning Bootstrap
 https://elisahonorato.github.io/another-bootstrap-page/
